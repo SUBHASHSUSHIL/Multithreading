@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Multithreading-MISC/">
+    <Project Path="States-of-a-thread/States-of-a-thread.csproj" Id="767d0d3d-1bdd-46a6-a60a-1d3350ca345d" />
+  </Folder>
   <Folder Name="/Threads-Synchronization/">
     <Project Path="Airplane-Seats-Booking-System/Airplane-Seats-Booking-System.csproj" Id="cb8e2e5e-49d1-421c-98a5-6012c450bc0d" />
     <Project Path="AutoResetEvent/AutoResetEvent.csproj" Id="cc966a95-cd44-4e67-b15b-c784415e0973" />
