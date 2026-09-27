@@ -2,6 +2,7 @@
   <Folder Name="/Multithreading-MISC/">
     <Project Path="CancelingThread/CancelingThread.csproj" Id="98b6987b-71d9-448a-a4fe-984607cac953" />
     <Project Path="States-of-a-thread/States-of-a-thread.csproj" Id="767d0d3d-1bdd-46a6-a60a-1d3350ca345d" />
+    <Project Path="Thread-Exception-Handing/Thread-Exception-Handing.csproj" Id="bd9bb45a-4fef-4de7-ac7d-cf09d28ed3bc" />
     <Project Path="ThreadPool/ThreadPool.csproj" Id="c278f3db-243e-4457-9a22-de8e61d42393" />
   </Folder>
   <Folder Name="/Threads-Synchronization/">
