@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Threads-Synchronization/">
+    <Project Path="Airplane-Seats-Booking-System/Airplane-Seats-Booking-System.csproj" Id="cb8e2e5e-49d1-421c-98a5-6012c450bc0d" />
     <Project Path="Exclusive-Lock/Exclusive-Lock.csproj" Id="7cf56b38-69f8-4f90-a058-2d3282a12420" />
     <Project Path="Thread-Synchronization-Overview/Thread-Synchronization-Overview.csproj" Id="3d70c097-a7e6-43db-b950-4bd8a71ae625" />
   </Folder>
