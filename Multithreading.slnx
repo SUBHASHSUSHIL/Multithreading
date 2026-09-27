@@ -3,6 +3,7 @@
     <Project Path="Airplane-Seats-Booking-System/Airplane-Seats-Booking-System.csproj" Id="cb8e2e5e-49d1-421c-98a5-6012c450bc0d" />
     <Project Path="AutoResetEvent/AutoResetEvent.csproj" Id="cc966a95-cd44-4e67-b15b-c784415e0973" />
     <Project Path="Exclusive-Lock/Exclusive-Lock.csproj" Id="7cf56b38-69f8-4f90-a058-2d3282a12420" />
+    <Project Path="ManualResetEvent/ManualResetEvent.csproj" Id="8ba5e122-20fe-48e7-99f6-9189b653b37b" />
     <Project Path="Moniter/Moniter.csproj" Id="075a257b-1b2d-4d64-a2b4-af83e9064ce4" />
     <Project Path="Mutex/Mutex.csproj" Id="df3c57dd-9151-477a-ab10-d6cc8f75c4f7" />
     <Project Path="ReaderWriterLock/ReaderWriterLock.csproj" Id="1910c50e-838c-4a35-bfa6-767bcadf6c8c" />
