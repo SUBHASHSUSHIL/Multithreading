@@ -2,6 +2,8 @@
   <Folder Name="/Threads-Synchronization/">
     <Project Path="Airplane-Seats-Booking-System/Airplane-Seats-Booking-System.csproj" Id="cb8e2e5e-49d1-421c-98a5-6012c450bc0d" />
     <Project Path="Exclusive-Lock/Exclusive-Lock.csproj" Id="7cf56b38-69f8-4f90-a058-2d3282a12420" />
+    <Project Path="Moniter/Moniter.csproj" Id="075a257b-1b2d-4d64-a2b4-af83e9064ce4" />
+    <Project Path="Mutex/Mutex.csproj" Id="df3c57dd-9151-477a-ab10-d6cc8f75c4f7" />
     <Project Path="Thread-Synchronization-Overview/Thread-Synchronization-Overview.csproj" Id="3d70c097-a7e6-43db-b950-4bd8a71ae625" />
   </Folder>
   <Project Path="Basic-Syntax/Basic-Syntax.csproj" />
