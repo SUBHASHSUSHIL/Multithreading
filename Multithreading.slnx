@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Threads-Synchronization/">
+    <Project Path="Thread-Synchronization-Overview/Thread-Synchronization-Overview.csproj" Id="3d70c097-a7e6-43db-b950-4bd8a71ae625" />
+  </Folder>
   <Project Path="Basic-Syntax/Basic-Syntax.csproj" />
   <Project Path="DivideAndConquer/DivideAndConquer.csproj" />
   <Project Path="OffloadTask/OffloadTask.csproj" Id="be83039d-2988-4f2e-8834-b54efe4db3dd" />
