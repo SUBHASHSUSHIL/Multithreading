@@ -6,6 +6,7 @@
     <Project Path="ThreadPool/ThreadPool.csproj" Id="c278f3db-243e-4457-9a22-de8e61d42393" />
   </Folder>
   <Folder Name="/Task-Based-Asynchronous-Programming/">
+    <Project Path="ExceptionHandlingInTasks/ExceptionHandlingInTasks.csproj" Id="d3eddc9c-8e53-44bc-ac98-bef43a9bac7e" />
     <Project Path="ReturningResultsFromTask/ReturningResultsFromTask.csproj" Id="07e3d665-676b-4aa6-8570-36553fd00166" />
     <Project Path="TaskConinuation-Chain&amp;Unwrap/TaskConinuation-Chain&amp;Unwrap.csproj" Id="04a90ae3-0de7-45a8-b7d3-0a80defdde62" />
     <Project Path="TaskContinuation-ContinueWith/TaskContinuation-ContinueWith.csproj" Id="77433ac6-f210-4d0f-96ae-661b1e982de0" />
