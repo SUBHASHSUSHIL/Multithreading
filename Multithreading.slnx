@@ -2,4 +2,5 @@
   <Project Path="Basic-Syntax/Basic-Syntax.csproj" />
   <Project Path="DivideAndConquer/DivideAndConquer.csproj" />
   <Project Path="OffloadTask/OffloadTask.csproj" Id="be83039d-2988-4f2e-8834-b54efe4db3dd" />
+  <Project Path="Web-Server-Simulation/Web-Server-Simulation.csproj" Id="bbf8ff03-cc16-4fbc-81ee-d89d19b37738" />
 </Solution>
