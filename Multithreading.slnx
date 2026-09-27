@@ -2,6 +2,7 @@
   <Folder Name="/Threads-Synchronization/">
     <Project Path="Airplane-Seats-Booking-System/Airplane-Seats-Booking-System.csproj" Id="cb8e2e5e-49d1-421c-98a5-6012c450bc0d" />
     <Project Path="AutoResetEvent/AutoResetEvent.csproj" Id="cc966a95-cd44-4e67-b15b-c784415e0973" />
+    <Project Path="Deadlock/Deadlock.csproj" Id="5db8d531-b419-447e-99b8-17146d9174ec" />
     <Project Path="Exclusive-Lock/Exclusive-Lock.csproj" Id="7cf56b38-69f8-4f90-a058-2d3282a12420" />
     <Project Path="ManualResetEvent/ManualResetEvent.csproj" Id="8ba5e122-20fe-48e7-99f6-9189b653b37b" />
     <Project Path="Moniter/Moniter.csproj" Id="075a257b-1b2d-4d64-a2b4-af83e9064ce4" />
