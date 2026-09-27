@@ -9,6 +9,7 @@
     <Project Path="ReturningResultsFromTask/ReturningResultsFromTask.csproj" Id="07e3d665-676b-4aa6-8570-36553fd00166" />
     <Project Path="TaskContinuation-ContinueWith/TaskContinuation-ContinueWith.csproj" Id="77433ac6-f210-4d0f-96ae-661b1e982de0" />
     <Project Path="TaskContinuation-Wait-WaitAll-Result/TaskContinuation-Wait-WaitAll-Result.csproj" Id="f1c4f2de-675c-4957-85b3-69514ea1ea30" />
+    <Project Path="TaskContinuation-WhenAll/TaskContinuation-WhenAll.csproj" Id="59de6ebc-75e6-4ccc-b330-a993ebc95b33" />
   </Folder>
   <Folder Name="/Threads-Synchronization/">
     <Project Path="Airplane-Seats-Booking-System/Airplane-Seats-Booking-System.csproj" Id="cb8e2e5e-49d1-421c-98a5-6012c450bc0d" />
