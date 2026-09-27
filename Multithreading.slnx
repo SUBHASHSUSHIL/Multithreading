@@ -5,6 +5,7 @@
     <Project Path="Moniter/Moniter.csproj" Id="075a257b-1b2d-4d64-a2b4-af83e9064ce4" />
     <Project Path="Mutex/Mutex.csproj" Id="df3c57dd-9151-477a-ab10-d6cc8f75c4f7" />
     <Project Path="ReaderWriterLock/ReaderWriterLock.csproj" Id="1910c50e-838c-4a35-bfa6-767bcadf6c8c" />
+    <Project Path="Semaphore/Semaphore.csproj" Id="13f88aca-9bfa-4aaf-a051-07eeffa43b07" />
     <Project Path="Thread-Synchronization-Overview/Thread-Synchronization-Overview.csproj" Id="3d70c097-a7e6-43db-b950-4bd8a71ae625" />
   </Folder>
   <Project Path="Basic-Syntax/Basic-Syntax.csproj" />
