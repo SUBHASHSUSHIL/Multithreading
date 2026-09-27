@@ -7,6 +7,7 @@
   </Folder>
   <Folder Name="/Task-Based-Asynchronous-Programming/">
     <Project Path="ReturningResultsFromTask/ReturningResultsFromTask.csproj" Id="07e3d665-676b-4aa6-8570-36553fd00166" />
+    <Project Path="TaskConinuation-Chain&amp;Unwrap/TaskConinuation-Chain&amp;Unwrap.csproj" Id="04a90ae3-0de7-45a8-b7d3-0a80defdde62" />
     <Project Path="TaskContinuation-ContinueWith/TaskContinuation-ContinueWith.csproj" Id="77433ac6-f210-4d0f-96ae-661b1e982de0" />
     <Project Path="TaskContinuation-Wait-WaitAll-Result/TaskContinuation-Wait-WaitAll-Result.csproj" Id="f1c4f2de-675c-4957-85b3-69514ea1ea30" />
     <Project Path="TaskContinuation-WhenAll/TaskContinuation-WhenAll.csproj" Id="59de6ebc-75e6-4ccc-b330-a993ebc95b33" />
