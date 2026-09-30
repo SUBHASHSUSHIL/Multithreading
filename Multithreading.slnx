@@ -12,6 +12,9 @@
     <Project Path="Thread-Exception-Handing/Thread-Exception-Handing.csproj" Id="bd9bb45a-4fef-4de7-ac7d-cf09d28ed3bc" />
     <Project Path="ThreadPool/ThreadPool.csproj" Id="c278f3db-243e-4457-9a22-de8e61d42393" />
   </Folder>
+  <Folder Name="/Parallel-Loops/">
+    <Project Path="parallel-loops-overview/parallel-loops-overview.csproj" Id="d8873a15-fcf6-4604-aada-a6a3dc189741" />
+  </Folder>
   <Folder Name="/Task-Based-Asynchronous-Programming/">
     <Project Path="ExceptionHandlingInTasks/ExceptionHandlingInTasks.csproj" Id="d3eddc9c-8e53-44bc-ac98-bef43a9bac7e" />
     <Project Path="ReturningResultsFromTask/ReturningResultsFromTask.csproj" Id="07e3d665-676b-4aa6-8570-36553fd00166" />
