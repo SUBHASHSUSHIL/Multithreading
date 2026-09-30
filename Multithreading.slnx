@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Async-&amp;-Await/">
+    <Project Path="Await-and-Synchronization-Context(Windows-Forms)/Await-and-Synchronization-Context(Windows-Forms).csproj" Id="dd451f32-5405-4696-913e-9d3b8e38aedd" />
     <Project Path="Basic-syntax-of-Async-and-Await/Basic-syntax-of-Async-and-Await.csproj" Id="7c685bbb-162d-478e-87cf-0dfdab445a9e" />
     <Project Path="continuation-after-returning-value/continuation-after-returning-value.csproj" Id="1feb30f9-e8ec-4e70-98a3-811a0ee8ea21" />
     <Project Path="Overview-Async-&amp;-Await/Overview-Async-&amp;-Await.csproj" Id="dc9ffc12-7016-461e-a80c-04c4486db93e" />
