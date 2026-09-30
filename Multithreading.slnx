@@ -20,6 +20,9 @@
     <Project Path="parallel-loops-stop/parallel-loops-stop.csproj" Id="299c478e-09be-47e6-b862-6987073bf75f" />
     <Project Path="thread-local-storage/thread-local-storage.csproj" Id="4661fd3d-63eb-477c-a3d5-e26412907d71" />
   </Folder>
+  <Folder Name="/PLINQ/">
+    <Project Path="basic-of-PLINQ/basic-of-PLINQ.csproj" Id="f65ab3a2-ee82-4fc5-916d-f0f670956141" />
+  </Folder>
   <Folder Name="/Task-Based-Asynchronous-Programming/">
     <Project Path="ExceptionHandlingInTasks/ExceptionHandlingInTasks.csproj" Id="d3eddc9c-8e53-44bc-ac98-bef43a9bac7e" />
     <Project Path="ReturningResultsFromTask/ReturningResultsFromTask.csproj" Id="07e3d665-676b-4aa6-8570-36553fd00166" />
