@@ -13,6 +13,7 @@
     <Project Path="ThreadPool/ThreadPool.csproj" Id="c278f3db-243e-4457-9a22-de8e61d42393" />
   </Folder>
   <Folder Name="/Parallel-Loops/">
+    <Project Path="parallel-loops-break/parallel-loops-break.csproj" Id="df8db8bc-eb62-411a-83b0-ac6c06d2fddc" />
     <Project Path="parallel-loops-exceptions/parallel-loops-exceptions.csproj" Id="7834f5a4-4767-4503-8c90-06dbc8104592" />
     <Project Path="parallel-loops-overview/parallel-loops-overview.csproj" Id="d8873a15-fcf6-4604-aada-a6a3dc189741" />
     <Project Path="parallel-loops-stop/parallel-loops-stop.csproj" Id="299c478e-09be-47e6-b862-6987073bf75f" />
