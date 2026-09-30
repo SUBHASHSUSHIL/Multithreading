@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Async-&amp;-Await/">
+    <Project Path="Basic-syntax-of-Async-and-Await/Basic-syntax-of-Async-and-Await.csproj" Id="7c685bbb-162d-478e-87cf-0dfdab445a9e" />
     <Project Path="Overview-Async-&amp;-Await/Overview-Async-&amp;-Await.csproj" Id="dc9ffc12-7016-461e-a80c-04c4486db93e" />
   </Folder>
   <Folder Name="/Multithreading-MISC/">
