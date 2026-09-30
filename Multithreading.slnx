@@ -15,6 +15,7 @@
   <Folder Name="/Parallel-Loops/">
     <Project Path="parallel-loops-exceptions/parallel-loops-exceptions.csproj" Id="7834f5a4-4767-4503-8c90-06dbc8104592" />
     <Project Path="parallel-loops-overview/parallel-loops-overview.csproj" Id="d8873a15-fcf6-4604-aada-a6a3dc189741" />
+    <Project Path="parallel-loops-stop/parallel-loops-stop.csproj" Id="299c478e-09be-47e6-b862-6987073bf75f" />
   </Folder>
   <Folder Name="/Task-Based-Asynchronous-Programming/">
     <Project Path="ExceptionHandlingInTasks/ExceptionHandlingInTasks.csproj" Id="d3eddc9c-8e53-44bc-ac98-bef43a9bac7e" />
