@@ -22,6 +22,7 @@
   </Folder>
   <Folder Name="/PLINQ/">
     <Project Path="basic-of-PLINQ/basic-of-PLINQ.csproj" Id="f65ab3a2-ee82-4fc5-916d-f0f670956141" />
+    <Project Path="PLINQ-exception-handling/PLINQ-exception-handling.csproj" Id="a0b19bbf-2d6c-49e1-930d-608b4552e967" />
     <Project Path="PLINQ-producer-consumer-and-buffer/PLINQ-producer-consumer-and-buffer.csproj" Id="0a218198-cc8a-418c-a5c7-1627bf1ade23" />
   </Folder>
   <Folder Name="/Task-Based-Asynchronous-Programming/">
