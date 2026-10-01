@@ -6,6 +6,9 @@
     <Project Path="Overview-Async-&amp;-Await/Overview-Async-&amp;-Await.csproj" Id="dc9ffc12-7016-461e-a80c-04c4486db93e" />
     <Project Path="which-thread-is-used/which-thread-is-used.csproj" Id="e93d6b04-bb41-4648-b691-c441fd2a4f37" />
   </Folder>
+  <Folder Name="/Concurrent-Collections/">
+    <Project Path="ConcurrentQueue/ConcurrentQueue.csproj" Id="d34a8bff-c396-4154-ba60-bd3986adde50" />
+  </Folder>
   <Folder Name="/Multithreading-MISC/">
     <Project Path="CancelingThread/CancelingThread.csproj" Id="98b6987b-71d9-448a-a4fe-984607cac953" />
     <Project Path="States-of-a-thread/States-of-a-thread.csproj" Id="767d0d3d-1bdd-46a6-a60a-1d3350ca345d" />
