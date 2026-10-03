@@ -8,6 +8,7 @@
     <Project Path="which-thread-is-used/which-thread-is-used.csproj" Id="e93d6b04-bb41-4648-b691-c441fd2a4f37" />
   </Folder>
   <Folder Name="/Concurrent-Collections/">
+    <File Path="concurrentQueue.md" />
     <Project Path="ConcurrentQueue/ConcurrentQueue.csproj" Id="d34a8bff-c396-4154-ba60-bd3986adde50" />
   </Folder>
   <Folder Name="/Multithreading-MISC/">
