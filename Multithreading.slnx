@@ -12,12 +12,14 @@
     <Project Path="ConcurrentQueue/ConcurrentQueue.csproj" Id="d34a8bff-c396-4154-ba60-bd3986adde50" />
   </Folder>
   <Folder Name="/Multithreading-MISC/">
+    <File Path="multithreading-MISC.md" />
     <Project Path="CancelingThread/CancelingThread.csproj" Id="98b6987b-71d9-448a-a4fe-984607cac953" />
     <Project Path="States-of-a-thread/States-of-a-thread.csproj" Id="767d0d3d-1bdd-46a6-a60a-1d3350ca345d" />
     <Project Path="Thread-Exception-Handing/Thread-Exception-Handing.csproj" Id="bd9bb45a-4fef-4de7-ac7d-cf09d28ed3bc" />
     <Project Path="ThreadPool/ThreadPool.csproj" Id="c278f3db-243e-4457-9a22-de8e61d42393" />
   </Folder>
   <Folder Name="/Parallel-Loops/">
+    <File Path="parallel-loops.md" />
     <Project Path="parallel-loops-break/parallel-loops-break.csproj" Id="df8db8bc-eb62-411a-83b0-ac6c06d2fddc" />
     <Project Path="parallel-loops-cancelation/parallel-loops-cancelation.csproj" Id="decb41c9-e742-429c-ae94-aa2e0009f104" />
     <Project Path="parallel-loops-exceptions/parallel-loops-exceptions.csproj" Id="7834f5a4-4767-4503-8c90-06dbc8104592" />
@@ -26,11 +28,16 @@
     <Project Path="thread-local-storage/thread-local-storage.csproj" Id="4661fd3d-63eb-477c-a3d5-e26412907d71" />
   </Folder>
   <Folder Name="/PLINQ/">
+    <File Path="pLINQ.md" />
     <Project Path="basic-of-PLINQ/basic-of-PLINQ.csproj" Id="f65ab3a2-ee82-4fc5-916d-f0f670956141" />
     <Project Path="PLINQ-exception-handling/PLINQ-exception-handling.csproj" Id="a0b19bbf-2d6c-49e1-930d-608b4552e967" />
     <Project Path="PLINQ-producer-consumer-and-buffer/PLINQ-producer-consumer-and-buffer.csproj" Id="0a218198-cc8a-418c-a5c7-1627bf1ade23" />
   </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="multithreading.md" />
+  </Folder>
   <Folder Name="/Task-Based-Asynchronous-Programming/">
+    <File Path="task-based-asynchronous-programming.md" />
     <Project Path="ExceptionHandlingInTasks/ExceptionHandlingInTasks.csproj" Id="d3eddc9c-8e53-44bc-ac98-bef43a9bac7e" />
     <Project Path="ReturningResultsFromTask/ReturningResultsFromTask.csproj" Id="07e3d665-676b-4aa6-8570-36553fd00166" />
     <Project Path="TaskConinuation-Chain&amp;Unwrap/TaskConinuation-Chain&amp;Unwrap.csproj" Id="04a90ae3-0de7-45a8-b7d3-0a80defdde62" />
@@ -39,6 +46,7 @@
     <Project Path="TaskContinuation-WhenAll/TaskContinuation-WhenAll.csproj" Id="59de6ebc-75e6-4ccc-b330-a993ebc95b33" />
   </Folder>
   <Folder Name="/Threads-Synchronization/">
+    <File Path="threads-synchronization.md" />
     <Project Path="Airplane-Seats-Booking-System/Airplane-Seats-Booking-System.csproj" Id="cb8e2e5e-49d1-421c-98a5-6012c450bc0d" />
     <Project Path="AutoResetEvent/AutoResetEvent.csproj" Id="cc966a95-cd44-4e67-b15b-c784415e0973" />
     <Project Path="Deadlock/Deadlock.csproj" Id="5db8d531-b419-447e-99b8-17146d9174ec" />
